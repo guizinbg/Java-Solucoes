@@ -10,7 +10,7 @@
 
 
 
-3 - Faça um algoritmo que leia dois valores inteiros A e B, se os valores de A e B forem iguais, deverá somar os dois valores, 
+3 - Faça um algoritmo que leia dois valores inteiros A e B, se os valores de A e B forem iguais, deverá somar os dois valores,
 
 
 
@@ -26,7 +26,7 @@ imprimir seu valor na tela.
 
 
 
-5 - Faça um algoritmo que leia o valor do salário mínimo e o valor do salário de um usuário, calcule quantos salários mínimos esse 
+5 - Faça um algoritmo que leia o valor do salário mínimo e o valor do salário de um usuário, calcule quantos salários mínimos esse
 
 
 
@@ -46,7 +46,7 @@ usuário ganha e imprima na tela o resultado. (Base para o Salário mínimo R$ 1
 
 
 
-9 - Faça um algoritmo que calcule o IMC (Índice de Massa Corporal) de uma pessoa, leia o seu peso e sua altura e imprima na tela sua condição 
+9 - Faça um algoritmo que calcule o IMC (Índice de Massa Corporal) de uma pessoa, leia o seu peso e sua altura e imprima na tela sua condição
 
 
 
@@ -62,99 +62,99 @@ Tabela Condições IMC
 
 
 
-&nbsp; 
+ 
 
 
 
-&nbsp;Abaixo de 18,5   | Abaixo do peso          
+ Abaixo de 18,5   | Abaixo do peso
 
 
 
-&nbsp;Entre 18,6 e 24,9 | Peso ideal (parabéns)  
+ Entre 18,6 e 24,9 | Peso ideal (parabéns)
 
 
 
-&nbsp;Entre 25,0 e 29,9 | Levemente acima do peso
+ Entre 25,0 e 29,9 | Levemente acima do peso
 
 
 
-&nbsp;Entre 30,0 e 34,9 | Obesidade grau I 
+ Entre 30,0 e 34,9 | Obesidade grau I
 
 
 
-&nbsp;Entre 35,0 e 39,9 | Obesidade grau II (severa)
+ Entre 35,0 e 39,9 | Obesidade grau II (severa)
 
 
 
-&nbsp;Maior ou igual a 40 | Obesidade grau III (mórbida)
+ Maior ou igual a 40 | Obesidade grau III (mórbida)
 
 
 
-&nbsp;
+ 
 
 
 
-&nbsp;10 - Faça um algoritmo que leia três notas obtidas por um aluno, e imprima na tela a média das notas.
+ 10 - Faça um algoritmo que leia três notas obtidas por um aluno, e imprima na tela a média das notas.
 
 
 
-&nbsp;
+ 
 
 
 
-&nbsp;11 - Faça um algoritmo que leia quatro notas obtidas por um aluno, calcule a média das nota obtidas, imprima na tela o nome do aluno e 
+ 11 - Faça um algoritmo que leia quatro notas obtidas por um aluno, calcule a média das nota obtidas, imprima na tela o nome do aluno e
 
 
 
-&nbsp;se o aluno foi aprovado ou reprovado. Para o aluno ser considerado aprovado sua média final deve ser maior ou igual a 7.
+ se o aluno foi aprovado ou reprovado. Para o aluno ser considerado aprovado sua média final deve ser maior ou igual a 7.
 
 
 
-&nbsp;
+ 
 
 
 
-&nbsp;12 - Faça um algoritmo que leia o valor de um produto e determine o valor que deve ser pago, conforme a escolha da forma de pagamento
+ 12 - Faça um algoritmo que leia o valor de um produto e determine o valor que deve ser pago, conforme a escolha da forma de pagamento
 
 
 
-&nbsp;pelo comprador e imprima na tela o valor final do produto a ser pago. Utilize os códigos da tabela de condições de pagamento para efetuar o cálculo adequado.
+ pelo comprador e imprima na tela o valor final do produto a ser pago. Utilize os códigos da tabela de condições de pagamento para efetuar o cálculo adequado.
 
 
 
-&nbsp;
+ 
 
 
 
-&nbsp;Tabela de Código de Condições de Pagamento
+ Tabela de Código de Condições de Pagamento
 
 
 
-&nbsp;
+ 
 
 
 
-&nbsp;1 - À Vista em Dinheiro ou Pix, recebe 15% de desconto
+ 1 - À Vista em Dinheiro ou Pix, recebe 15% de desconto
 
 
 
-&nbsp;2 - À Vista no cartão de crédito, recebe 10% de desconto
+ 2 - À Vista no cartão de crédito, recebe 10% de desconto
 
 
 
-&nbsp;3 - Parcelado no cartão em duas vezes, preço normal do produto sem juros
+ 3 - Parcelado no cartão em duas vezes, preço normal do produto sem juros
 
 
 
-&nbsp;4 - Parcelado no cartão em três vezes ou mais, preço normal do produto mais juros de 10%
+ 4 - Parcelado no cartão em três vezes ou mais, preço normal do produto mais juros de 10%
 
 
 
-&nbsp;
+ 
 
 
 
-&nbsp;13 - Faça algoritmo que leia o nome e a idade de uma peso e imprima na tela o nome da pessoa e se ela é maior ou menor de idade. 
+ 13 - Faça algoritmo que leia o nome e a idade de uma peso e imprima na tela o nome da pessoa e se ela é maior ou menor de idade.
 
 
 
@@ -162,7 +162,7 @@ Tabela Condições IMC
 
 
 
-15 - Faça um algoritmo que leia o ano em que uma pessoa nasceu, imprima na tela quantos anos, meses e dias essa pessoa ja viveu. Leve em 
+15 - Faça um algoritmo que leia o ano em que uma pessoa nasceu, imprima na tela quantos anos, meses e dias essa pessoa ja viveu. Leve em
 
 
 
@@ -174,7 +174,7 @@ consideração o ano com 365 dias e o mês com 30 dias.
 
 
 
-16 - Faça um algoritmo que leia três valores que representam os três lados de um triângulo e verifique se são válidos, determine se o triângulo é 
+16 - Faça um algoritmo que leia três valores que representam os três lados de um triângulo e verifique se são válidos, determine se o triângulo é
 
 
 
@@ -222,5 +222,5 @@ Fórmula: distância = tempo x velocidade.
 
 
 
-&nbsp;           litros usados = distância / 12.
+            litros usados = distância / 12.
 
